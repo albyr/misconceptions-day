@@ -300,9 +300,10 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.428571429;
+  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  /*line-height: 1.428571429;*/
+  line-height: 2.857142857;
   color: #333333;
   background-color: #ffffff;
 }
@@ -462,9 +463,9 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 500;
-  line-height: 1.1;
+  font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.428571429;
+  text-align: center;
 }
 
 h1 small,
@@ -487,8 +488,8 @@ h6 small,
 h1,
 h2,
 h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 h4,
